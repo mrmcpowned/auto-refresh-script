@@ -1,3 +1,0 @@
-- generic [active] [ref=e1]:
-  - generic [ref=e2]: "782"
-  - button "Reset Counter" [ref=e3] [cursor=pointer]
