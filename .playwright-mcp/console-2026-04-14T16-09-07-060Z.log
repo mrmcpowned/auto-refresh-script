@@ -1,0 +1,4 @@
+[     376ms] [INFO] Images loaded lazily and replaced with placeholders. Load events are deferred. See https://go.microsoft.com/fwlink/?linkid=2048113 @ https://en.wikipedia.org/wiki/Main_Page:954
+[    5652ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://en.wikipedia.org/ins-502b/v2/events?hasty=true:0
+[  138945ms] [INFO] Images loaded lazily and replaced with placeholders. Load events are deferred. See https://go.microsoft.com/fwlink/?linkid=2048113 @ https://en.wikipedia.org/wiki/Main_Page:954
+[  144169ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://en.wikipedia.org/ins-502b/v2/events?hasty=true:0

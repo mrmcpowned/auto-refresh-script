@@ -1,0 +1,9 @@
+[   53248ms] [LOG] [GM_registerMenuCommand] Open settings @ :5
+[   53248ms] [LOG] [GM_registerMenuCommand] Set badge font size @ :5
+[   53249ms] [LOG] [GM_registerMenuCommand] Set badge position @ :5
+[   53249ms] [LOG] [GM_registerMenuCommand] Set refresh interval @ :5
+[   53249ms] [LOG] [GM_registerMenuCommand] Set keyboard shortcut @ :5
+[   53249ms] [LOG] [GM_registerMenuCommand] Watch element for changes @ :5
+[   53249ms] [LOG] [GM_registerMenuCommand] Clear watch @ :5
+[   53249ms] [LOG] [GM_registerMenuCommand] Start auto-refresh @ :5
+[   53249ms] [LOG] [GM_registerMenuCommand] Stop auto-refresh @ :5

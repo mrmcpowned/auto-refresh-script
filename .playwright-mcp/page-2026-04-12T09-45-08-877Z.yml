@@ -1,0 +1,241 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]: 1. Tabbed Sections
+    - generic [ref=e4]:
+      - generic [ref=e5]: Auto Refresh Settings
+      - generic [ref=e8]: Inactive
+      - generic [ref=e10]:
+        - generic [ref=e11]: Auto-Refresh
+        - generic [ref=e12]: Reload the page on a timer
+      - generic [ref=e15]:
+        - generic [ref=e16] [cursor=pointer]: Refresh
+        - generic [ref=e17] [cursor=pointer]: Appearance
+        - generic [ref=e18] [cursor=pointer]: General
+        - generic [ref=e19] [cursor=pointer]: Watches
+      - generic [ref=e20] [cursor=pointer]:
+        - generic [ref=e21]:
+          - generic [ref=e22]: ⏱ Refresh Interval
+          - generic [ref=e23]: 30 seconds
+        - generic [ref=e24]: How often the page reloads
+      - generic [ref=e25] [cursor=pointer]:
+        - generic [ref=e26]:
+          - generic [ref=e27]: 📍 Badge Position
+          - generic [ref=e28]: Bottom Center
+        - generic [ref=e29]: Where the countdown timer appears
+      - generic [ref=e30] [cursor=pointer]:
+        - generic [ref=e31]:
+          - generic [ref=e32]: 🔤 Badge Font Size
+          - generic [ref=e33]: Medium
+        - generic [ref=e34]: Size of the countdown badge text
+      - generic [ref=e35]: Press Alt+Shift+R to open this menu · v2.1.0
+  - generic [ref=e36]:
+    - generic [ref=e37]: 2. Hub & Spoke
+    - generic [ref=e38]:
+      - generic [ref=e39]: Auto Refresh Settings
+      - generic [ref=e42]: Inactive
+      - generic [ref=e44]:
+        - generic [ref=e45]: Auto-Refresh
+        - generic [ref=e46]: Reload the page on a timer
+      - generic [ref=e49]:
+        - generic [ref=e50] [cursor=pointer]:
+          - generic [ref=e51]: ⏱
+          - generic [ref=e52]: Refresh
+          - generic [ref=e53]: Interval & position
+          - generic [ref=e54]: 30s · Bottom Center
+        - generic [ref=e55] [cursor=pointer]:
+          - generic [ref=e56]: 🎨
+          - generic [ref=e57]: Appearance
+          - generic [ref=e58]: Theme & badge style
+          - generic [ref=e59]: Dark · 100%
+        - generic [ref=e60] [cursor=pointer]:
+          - generic [ref=e61]: ⚙
+          - generic [ref=e62]: General
+          - generic [ref=e63]: Hotkey, alerts & hooks
+          - generic [ref=e64]: Alt+Shift+R
+        - generic [ref=e65] [cursor=pointer]:
+          - generic [ref=e66]: 👁
+          - generic [ref=e67]: Watches
+          - generic [ref=e68]: Monitor elements
+          - generic [ref=e69]: 1 active · 2 total
+      - generic [ref=e70]: Press Alt+Shift+R to open this menu · v2.1.0
+  - generic [ref=e71]:
+    - generic [ref=e72]: 3. Progressive Disclosure
+    - generic [ref=e73]:
+      - generic [ref=e74]: Auto Refresh Settings
+      - generic [ref=e77]: Inactive
+      - generic [ref=e79]:
+        - generic [ref=e80]: Auto-Refresh
+        - generic [ref=e81]: Reload the page on a timer
+      - generic [ref=e84] [cursor=pointer]:
+        - generic [ref=e85]:
+          - generic [ref=e86]: ⏱ Refresh Interval
+          - generic [ref=e87]: 30 seconds
+        - generic [ref=e88]: How often the page reloads
+      - generic [ref=e89] [cursor=pointer]:
+        - generic [ref=e91]: 👁 Add Watch
+        - generic [ref=e92]: Pick an element to monitor for changes
+      - generic [ref=e93] [cursor=pointer]:
+        - generic [ref=e94]:
+          - generic [ref=e95]: 📋 Watch Overview
+          - generic [ref=e96]: "2"
+        - generic [ref=e97]: All watches across pages
+      - generic [ref=e98] [cursor=pointer]:
+        - generic [ref=e99]:
+          - generic [ref=e100]: 🔍 Inspect Watches
+          - generic [ref=e101]: "1"
+        - generic [ref=e102]: View stored vs live content
+      - generic [ref=e103] [cursor=pointer]: ▼ More settings (position, theme, alerts...)
+      - generic [ref=e104]: Press Alt+Shift+R to open this menu · v2.1.0
+  - generic [ref=e105]:
+    - generic [ref=e106]: 4. Inline Editing
+    - generic [ref=e107]:
+      - generic [ref=e108]: Auto Refresh Settings
+      - generic [ref=e111]: Inactive
+      - generic [ref=e113]:
+        - generic [ref=e114]: Auto-Refresh
+        - generic [ref=e115]: Reload the page on a timer
+      - generic [ref=e118]: Refresh
+      - generic [ref=e119]:
+        - generic [ref=e120]: ⏱ Interval
+        - combobox [ref=e121]:
+          - option "5s"
+          - option "10s"
+          - option "15s"
+          - option "30s" [selected]
+          - option "1m"
+          - option "5m"
+      - generic [ref=e122]:
+        - generic [ref=e123]: 📍 Position
+        - combobox [ref=e124]:
+          - option "Top Left"
+          - option "Top Right"
+          - option "Bottom Center" [selected]
+          - option "Bottom Right"
+      - generic [ref=e125]:
+        - generic [ref=e126]: 🔤 Font Size
+        - combobox [ref=e127]:
+          - option "Small"
+          - option "Medium" [selected]
+          - option "Large"
+          - option "Extra large"
+      - generic [ref=e128]: Appearance
+      - generic [ref=e129]:
+        - generic [ref=e130]: 🎨 Theme
+        - combobox [ref=e131]:
+          - option "Dark" [selected]
+          - option "Light"
+          - option "Minimal"
+          - option "High Contrast"
+      - generic [ref=e132]:
+        - generic [ref=e133]: 🔲 Opacity
+        - slider [ref=e134]: "100"
+        - generic [ref=e135]: 100%
+      - generic [ref=e136]: Watches
+      - generic [ref=e137] [cursor=pointer]:
+        - generic [ref=e139]: 👁 Add Watch
+        - generic [ref=e140]: Pick an element to monitor
+      - generic [ref=e142] [cursor=pointer]:
+        - generic [ref=e143]: 📋 Watch Overview
+        - generic [ref=e144]: "2"
+      - generic [ref=e145]: Press Alt+Shift+R to open this menu · v2.1.0
+  - generic [ref=e146]:
+    - generic [ref=e147]: 5. Two-Column Grid
+    - generic [ref=e148]:
+      - generic [ref=e149]: Auto Refresh Settings
+      - generic [ref=e152]: Inactive
+      - generic [ref=e154]:
+        - generic [ref=e155]: Auto-Refresh
+        - generic [ref=e156]: Reload the page on a timer
+      - generic [ref=e159] [cursor=pointer]:
+        - generic [ref=e160]:
+          - generic [ref=e161]: ⏱ Refresh Interval
+          - generic [ref=e162]: 30 seconds
+        - generic [ref=e163]: How often the page reloads
+      - generic [ref=e164]: Badge & Appearance
+      - generic [ref=e165]:
+        - generic [ref=e166] [cursor=pointer]:
+          - generic [ref=e168]: 📍 Position
+          - generic [ref=e169]: Bottom Center
+        - generic [ref=e170] [cursor=pointer]:
+          - generic [ref=e172]: 🔤 Font Size
+          - generic [ref=e173]: Medium
+        - generic [ref=e174] [cursor=pointer]:
+          - generic [ref=e176]: 🎨 Theme
+          - generic [ref=e177]: Dark
+        - generic [ref=e178] [cursor=pointer]:
+          - generic [ref=e180]: 🔲 Opacity
+          - generic [ref=e181]: 100%
+      - generic [ref=e182]: General
+      - generic [ref=e183]:
+        - generic [ref=e184] [cursor=pointer]:
+          - generic [ref=e186]: ⌨ Shortcut
+          - generic [ref=e187]: Alt+Shift+R
+        - generic [ref=e188] [cursor=pointer]:
+          - generic [ref=e190]: 🔔 Alerts
+          - generic [ref=e191]: Beep
+      - generic [ref=e192]: Watches (1)
+      - generic [ref=e193] [cursor=pointer]:
+        - generic [ref=e195]: 👁 Add Watch
+        - generic [ref=e196]: Pick an element to monitor
+      - generic [ref=e198] [cursor=pointer]:
+        - generic [ref=e199]: 📋 Watch Overview
+        - generic [ref=e200]: "2"
+      - generic [ref=e201]: Press Alt+Shift+R to open this menu · v2.1.0
+  - generic [ref=e202]:
+    - generic [ref=e203]: 6. Grouped Sub-Pages
+    - generic [ref=e204]:
+      - generic [ref=e205]: Auto Refresh Settings
+      - generic [ref=e208]: Inactive
+      - generic [ref=e210]:
+        - generic [ref=e211]: Auto-Refresh
+        - generic [ref=e212]: Reload the page on a timer
+      - generic [ref=e215] [cursor=pointer]:
+        - generic [ref=e216]:
+          - generic [ref=e217]: ⏱ Refresh Interval
+          - generic [ref=e218]: 30 seconds
+        - generic [ref=e219]: How often the page reloads
+      - generic [ref=e220] [cursor=pointer]:
+        - generic [ref=e221]:
+          - generic [ref=e222]: 🏷 Badge Style
+          - generic [ref=e223]: Bottom Center · Medium · 100%
+        - generic [ref=e224]: Position, size, and opacity
+      - generic [ref=e225] [cursor=pointer]:
+        - generic [ref=e226]:
+          - generic [ref=e227]: 🎨 Theme
+          - generic [ref=e228]: Dark
+        - generic [ref=e229]: Choose a visual style
+      - generic [ref=e230] [cursor=pointer]:
+        - generic [ref=e231]:
+          - generic [ref=e232]: ⌨ Keyboard Shortcut
+          - generic [ref=e233]: Alt+Shift+R
+        - generic [ref=e234]: Hotkey to open this menu
+      - generic [ref=e235] [cursor=pointer]:
+        - generic [ref=e236]:
+          - generic [ref=e237]: 🔔 Alert Mode
+          - generic [ref=e238]: Beep
+        - generic [ref=e239]: How you are notified of changes
+      - generic [ref=e240] [cursor=pointer]:
+        - generic [ref=e241]:
+          - generic [ref=e242]: 🌐 Webhook
+          - generic [ref=e243]: None
+        - generic [ref=e244]: Send alerts to external services
+      - generic [ref=e245]: Watches (1)
+      - generic [ref=e246] [cursor=pointer]:
+        - generic [ref=e248]: 👁 Add Watch
+        - generic [ref=e249]: Pick an element to monitor for changes
+      - generic [ref=e250] [cursor=pointer]:
+        - generic [ref=e251]:
+          - generic [ref=e252]: 📋 Watch Overview
+          - generic [ref=e253]: "2"
+        - generic [ref=e254]: All watches across pages
+      - generic [ref=e255] [cursor=pointer]:
+        - generic [ref=e256]:
+          - generic [ref=e257]: 🔍 Inspect Watches
+          - generic [ref=e258]: "1"
+        - generic [ref=e259]: View stored vs live content
+      - generic [ref=e260] [cursor=pointer]:
+        - generic [ref=e261]:
+          - generic [ref=e262]: 🗑 Remove Watches
+          - generic [ref=e263]: "1"
+        - generic [ref=e264]: Remove individual or all watches
+      - generic [ref=e265]: Press Alt+Shift+R to open this menu · v2.1.0

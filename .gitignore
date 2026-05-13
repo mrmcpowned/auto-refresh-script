@@ -1,0 +1,6 @@
+# Playwright MCP artifacts (console logs, page snapshots, screenshots)
+.playwright-mcp/
+
+# Regression/QA screenshots at repo root
+regression-*.png
+cq-*.png
