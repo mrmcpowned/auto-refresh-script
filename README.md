@@ -100,8 +100,10 @@ scripts/
   lint-gm-calls.ps1            # Verify GM_* API usage rules
   capture-browser.ps1          # Browser QA testing utility
 docs/
-  architecture-map.html        # Interactive architecture diagram
+  architecture-map.html        # Interactive architecture diagram (live)
 ```
+
+> **[View the live Architecture Map](https://mrmcpowned.github.io/auto-refresh-script/architecture-map.html)**
 
 ---
 
